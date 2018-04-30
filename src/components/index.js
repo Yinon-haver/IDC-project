@@ -11,8 +11,6 @@ export default class App extends Component {
       <div>
         <NavBar/>
         <Junbotron/>
-        <AlgoList/>
-        <AlgoDetail/>
       </div>
     );
   }
